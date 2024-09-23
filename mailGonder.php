@@ -129,7 +129,7 @@ public function mailGonder($ayar, $adsoyad, $eposta, $kime,$konu, $mesaj, $addAd
       
             $emailBody .= "
                 <div class='header '>
-                    <img src='https://twm.com.tr/cp/assets/images/logo/logo.png' alt='Genel Logo' style='height: 50px;'>
+                    <img src='' alt='Genel Logo' style='height: 50px;'>
                 </div>";
         
 
